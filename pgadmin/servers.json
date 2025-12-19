@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "__SERVER_NAME__",
+      "Group": "__SERVER_GROUP__",
+      "Host": "__SERVER_HOST__",
+      "Port": __SERVER_PORT__,
+      "MaintenanceDB": "__MAINTENANCE_DB__",
+      "Username": "__DB_USER__",
+      "SSLMode": "prefer",
+      "PassFile": "/pgpass"
+    }
+  }
+}
